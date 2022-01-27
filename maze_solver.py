@@ -1,10 +1,4 @@
 """
-                                                    Marco Mendez
-                                                    COMPSCI 216, Spring 2020
-                                                    June 12, 2020
-
-                        COMPSCI 216 Project
-
 File Name:      maze_solver.py
 Description:    This program solves a given maze provided by the user. The program
                 reviews the image file specified by the user. From there, the image
