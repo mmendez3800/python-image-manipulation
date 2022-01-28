@@ -1,5 +1,5 @@
 # Python Image Manipulation
-This is a compilation of programs to practice and understand image manipulate using the Python language
+This is a compilation of programs to practice and understand image manipulate using Python
 
 ## Technologies
 The programs in this project were run using the following:
